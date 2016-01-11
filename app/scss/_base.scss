@@ -5,3 +5,15 @@ body {
   position: relative;
   padding-top: 50px;
 }
+
+#lc-main-hero {
+    height: 100vh;
+    background-attachment: scroll;
+    background-image: url(/img/hero-frame.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
